@@ -19,9 +19,6 @@ Criar o modelo conceitual e lógico do banco de dados, usando uma ferramenta de 
 
 
 
-Criar as relações e cardinalidades entre as tabelas do modelo do banco. Criar o modelo físico (tabelas e relações) usando SQL.
-
-![image](https://github.com/FelipeSysten/Site_Explora_tour/assets/76599815/f89fcabc-3bab-4200-9618-e17089dd96c6)
 
 
 Criar o modelo do sistema (Classes) em UML e Java 
