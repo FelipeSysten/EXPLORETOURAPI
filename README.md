@@ -1,6 +1,7 @@
 # Site_Explora_tour https://explore-tour.vercel.app/
 
-![image](https://github.com/FelipeSysten/Site_Explora_tour/assets/76599815/3102a96a-1e2b-400a-b5e8-d3ce0289c511)
+![image](https://github.com/FelipeSysten/EXPLORETOURAPI/assets/76599815/4da81438-a0de-4ebd-9b36-0d8cf4913b44)
+
 
 ## EXPLORE TOUR API
 Repositório da API de uma agência de viagens Explore Tour
