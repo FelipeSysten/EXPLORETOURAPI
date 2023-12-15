@@ -54,7 +54,7 @@ public class ReservaServiceImpl implements ReservaService{
 
 	@Override
 	public void addRelationship(Long reservaId, Long destinoId) {
-		Reserva reserva = rr.findById(reservaId).orElseThrow(()-> new RuntimeException("ID" + reservaId + "Not Found"));
+		Reserva reserva = rr.findById(reservaId).orElseThrow(()-> new RuntimeException( "Not Found"));
 		Destino destino = dr.findById(destinoId).orElseThrow(()-> new RuntimeException("ID" + destinoId + "Not Found"));
 	
 		if(reserva != null && destino != null) {
