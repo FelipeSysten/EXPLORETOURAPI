@@ -6,6 +6,9 @@
 ## EXPLORE TOUR API
 Repositório da API de uma agência de viagens Explore Tour
 
+Index -> http://localhost:8080/index
+API -> http://localhost:8080/swagger-ui/index.html
+
 ## Instruções: 
 
 Para que o projeto funcione de maneira correta é necessário que seja cadastrado um cliente, fazer uma reserva e escolher o destino.
